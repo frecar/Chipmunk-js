@@ -1,5 +1,7 @@
 # Chipmunk for Javascript!
 
+[![Join the chat at https://gitter.im/frecar/Chipmunk-js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frecar/Chipmunk-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a port of the [Chipmunk Physics](http://chipmunk-physics.net/) library to Javascript!
 
 Check out the sexy [demos](http://dl.dropbox.com/u/2494815/demo/index.html)! (Surprisingly, works best in Safari)
